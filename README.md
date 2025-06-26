@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'm just playing with personal projects, notes, in a cross platforms way...
+
+... just playing with personal projects, notes, in a cross platforms way...
 
 <!--
 **jlerolle/jlerolle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
